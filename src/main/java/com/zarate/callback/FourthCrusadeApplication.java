@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootBeanCallbackApplication {
+public class FourthCrusadeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootBeanCallbackApplication.class, args);
+		SpringApplication.run(FourthCrusadeApplication.class, args);
 	}
 
 }
